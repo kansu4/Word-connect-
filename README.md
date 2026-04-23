@@ -1,20 +1,25 @@
 # Word Connect
 
-A small word related project containing a Python script and a word list.
+A small Vietnamese word-processing project that builds a graph of 2-word phrases and finds optimal word connections.
+
+## Overview
+
+This project reads a Vietnamese dictionary file and extracts all **2-word phrases**.  
+Given a starting word, it finds all matching phrases and selects the ones that lead to the **fewest possible next words**.
+
+This can be useful for:
+- Word chain games (nối từ)
+- Linguistic exploration
+- Graph-based word analysis
 
 ## Files
 
 - `noiTu.py` — main Python script
-- `words.txt` — word list used by the project
+- `words.txt` — dictionary data (JSON lines format)
 
-## Usage
+## Data Format
 
-Run the script with Python from the project root:
+Each line in `words.txt` should look like:
 
-```bash
-python3 noiTu.py
-```
-
-## Notes
-
-Add additional instructions here once the project requirements are finalized.
+```json
+{"text": "ác quỷ", "source": ["hongocduc"]}
