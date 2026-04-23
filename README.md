@@ -1,6 +1,6 @@
 # Word Connect
 
-A small word-related project containing a Python script and a word list.
+A small word related project containing a Python script and a word list.
 
 ## Files
 
