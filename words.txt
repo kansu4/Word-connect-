@@ -30117,6 +30117,7 @@
 {"text": "hon hỏn", "source": ["hongocduc", "wiktionary"]}
 {"text": "hon hón", "source": ["hongocduc"]}
 {"text": "hon hót", "source": ["hongocduc"]}
+{"text": "hòi reo", "source": ["hongocduc", "tudientv", "wiktionary"]}
 {"text": "hòn", "source": ["hongocduc", "tudientv", "wiktionary"]}
 {"text": "hòn bấc ném đi hòn chì ném lại", "source": ["hongocduc"]}
 {"text": "hòn bi", "source": ["hongocduc"]}
@@ -79224,3 +79225,6 @@
 {"text": "賀捷", "source": ["wiktionary"]}
 {"text": "開講", "source": ["wiktionary"]}
 {"text": "閣下", "source": ["wiktionary"]}
+{"text": "xúy xóa", "source": ["wiktionary"]}
+{"text": "mí mắt", "source": ["wiktionary"]}
+{"text": "tuất thì", "source": ["wiktionary"]}

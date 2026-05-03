@@ -59,7 +59,7 @@ def find_best_word(index, query):
 
 def main():
     file_path = "words.txt"
-    query = "bóc"
+    query = ""
     if query == "":
         query = input("Enter first word: ").strip()
 
