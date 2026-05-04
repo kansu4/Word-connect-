@@ -11,6 +11,8 @@ def build_index(filename):
                 data = json.loads(line.strip())
                 text = data.get("text", "")
 
+                text = text.lower() # Normalize to lowercase
+
                 # Skip hyphenated words
                 if "-" in text:
                     continue
@@ -59,7 +61,7 @@ def find_best_word(index, query):
 
 def main():
     file_path = "words.txt"
-    query = ""
+    query = "tuất"
     if query == "":
         query = input("Enter first word: ").strip()
 

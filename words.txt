@@ -79227,4 +79227,3 @@
 {"text": "閣下", "source": ["wiktionary"]}
 {"text": "xúy xóa", "source": ["wiktionary"]}
 {"text": "mí mắt", "source": ["wiktionary"]}
-{"text": "tuất thì", "source": ["wiktionary"]}
