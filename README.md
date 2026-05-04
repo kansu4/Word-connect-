@@ -23,3 +23,14 @@ Each line in `words.txt` should look like:
 
 ```json
 {"text": "ác quỷ", "source": ["hongocduc"]}
+
+## Data Source & License
+
+This project uses a Vietnamese dictionary dataset from:
+
+- https://github.com/undertheseanlp/dictionary
+
+The dataset is licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+This project complies with GPL-3.0 terms.  
+All credit goes to the original authors.
